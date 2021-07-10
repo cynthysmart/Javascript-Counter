@@ -47,13 +47,16 @@ h2 {
     justify-content: center;
     align-items: center;
     margin-left: 29%;
-    margin-top: 2rem;
+    margin-top: 1rem;
 }
 
 .second {
     margin-left: 33%;
 }
-
+.github {
+    width: 3rem;
+    margin: 0.7rem;
+}
 @media (max-width: 767px) {    
     .first-div {
         width: 80%;
